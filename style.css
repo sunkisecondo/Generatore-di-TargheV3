@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #697268;
+    text-align: center;
+    text-align-last: center;
+    text-size-adjust: center;   
+}
+#attenzione {
+    color: #E2E8DD;
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}
+#scritto {
+    color: #4E5340;
+    position: absolute;
+    top: 45%;
+    left: 32%;
+}
+
+#rettangolo {
+    background-color: #95A3A4;
+    width: 100%;
+    height: 20%;
+    top: 80%;
+    position: absolute;
+}
+
+.crediti {
+    position: absolute;
+    top: 85%;
+    left: 46%;
+    color: #B7D1DA;
+    
+}
+
+#italia {
+    height: 1cm;
+    width: 2cm;
+    top: 95%;
+    position: absolute;
+    left: 930px;
+}
+
+.creditiscritte {
+    color: #B7D1DA;
+}
