@@ -26,6 +26,6 @@
 
 
         //write
-        document.write("Targa random: " + lettere[random1] + lettere2[random2] + numeri[random5] + numeri1[random6] + numeri2[random7] + lettere3[random3] + lettere4[random4])
+        document.write('<h1 id="scritto">Targa random: ' + lettere[random1] + lettere2[random2] + numeri[random5] + numeri1[random6] + numeri2[random7] + lettere3[random3] + lettere4[random4] + '</h1>')
         
     

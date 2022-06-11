@@ -8,18 +8,6 @@ body {
     text-align-last: center;
     text-size-adjust: center;   
 }
-#attenzione {
-    color: #E2E8DD;
-    position: absolute;
-    top: 40%;
-    left: 46%;
-}
-#scritto {
-    color: #4E5340;
-    position: absolute;
-    top: 45%;
-    left: 32%;
-}
 
 #rettangolo {
     background-color: #95A3A4;
@@ -47,4 +35,19 @@ body {
 
 .creditiscritte {
     color: #B7D1DA;
+}
+
+button {
+    background-color: #B7D1DA;
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    top: 50%;
+    left: 45%;
+    
+    
+}
+
+#scritto {
+    color: red;
 }
